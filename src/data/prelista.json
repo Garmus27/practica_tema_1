@@ -1,0 +1,387 @@
+[
+  {
+    "numero": 1,
+    "nombreCompleto": "Emiliano Martínez",
+    "equipo": "Aston Villa",
+    "posicion": "Arquero",
+    "codigoPosicion": "ARQ"
+  },
+  {
+    "numero": 2,
+    "nombreCompleto": "Gerónimo Rulli",
+    "equipo": "Olympique de Marsella",
+    "posicion": "Arquero",
+    "codigoPosicion": "ARQ"
+  },
+  {
+    "numero": 3,
+    "nombreCompleto": "Juan Musso",
+    "equipo": "Atlético de Madrid",
+    "posicion": "Arquero",
+    "codigoPosicion": "ARQ"
+  },
+  {
+    "numero": 4,
+    "nombreCompleto": "Walter Benítez",
+    "equipo": "Crystal Palace",
+    "posicion": "Arquero",
+    "codigoPosicion": "ARQ"
+  },
+  {
+    "numero": 5,
+    "nombreCompleto": "Facundo Cambeses",
+    "equipo": "Racing Club",
+    "posicion": "Arquero",
+    "codigoPosicion": "ARQ"
+  },
+  {
+    "numero": 6,
+    "nombreCompleto": "Santiago Beltrán",
+    "equipo": "River Plate",
+    "posicion": "Arquero",
+    "codigoPosicion": "ARQ"
+  },
+  {
+    "numero": 7,
+    "nombreCompleto": "Agustín Giay",
+    "equipo": "Palmeiras",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 8,
+    "nombreCompleto": "Gonzalo Montiel",
+    "equipo": "River Plate",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 9,
+    "nombreCompleto": "Nahuel Molina",
+    "equipo": "Atlético de Madrid",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 10,
+    "nombreCompleto": "Nicolás Capaldo",
+    "equipo": "Hamburgo SV",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 11,
+    "nombreCompleto": "Kevin Mac Allister",
+    "equipo": "Union Saint-Gilloise",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 12,
+    "nombreCompleto": "Lucas Martínez Quarta",
+    "equipo": "River Plate",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 13,
+    "nombreCompleto": "Marcos Senesi",
+    "equipo": "Bournemouth",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 14,
+    "nombreCompleto": "Lisandro Martínez",
+    "equipo": "Manchester United",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 15,
+    "nombreCompleto": "Nicolás Otamendi",
+    "equipo": "Benfica",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 16,
+    "nombreCompleto": "Germán Pezzella",
+    "equipo": "River Plate",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 17,
+    "nombreCompleto": "Leonardo Balerdi",
+    "equipo": "Olympique de Marsella",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 18,
+    "nombreCompleto": "Cristian Romero",
+    "equipo": "Tottenham Hotspur",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 19,
+    "nombreCompleto": "Lautaro Di Lollo",
+    "equipo": "Boca Juniors",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 20,
+    "nombreCompleto": "Zaid Romero",
+    "equipo": "Getafe",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 21,
+    "nombreCompleto": "Facundo Medina",
+    "equipo": "Olympique de Marsella",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 22,
+    "nombreCompleto": "Marcos Acuña",
+    "equipo": "River Plate",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 23,
+    "nombreCompleto": "Nicolás Tagliafico",
+    "equipo": "Olympique de Lyon",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 24,
+    "nombreCompleto": "Gabriel Rojas",
+    "equipo": "Racing Club",
+    "posicion": "Defensor",
+    "codigoPosicion": "DEF"
+  },
+  {
+    "numero": 25,
+    "nombreCompleto": "Máximo Perrone",
+    "equipo": "Como",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 26,
+    "nombreCompleto": "Leandro Paredes",
+    "equipo": "Boca Juniors",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 27,
+    "nombreCompleto": "Guido Rodríguez",
+    "equipo": "Valencia",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 28,
+    "nombreCompleto": "Aníbal Moreno",
+    "equipo": "River Plate",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 29,
+    "nombreCompleto": "Milton Delgado",
+    "equipo": "Boca Juniors",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 30,
+    "nombreCompleto": "Alan Varela",
+    "equipo": "Porto",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 31,
+    "nombreCompleto": "Ezequiel Fernández",
+    "equipo": "Bayer Leverkusen",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 32,
+    "nombreCompleto": "Rodrigo De Paul",
+    "equipo": "Inter Miami",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 33,
+    "nombreCompleto": "Exequiel Palacios",
+    "equipo": "Bayer Leverkusen",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 34,
+    "nombreCompleto": "Enzo Fernández",
+    "equipo": "Chelsea",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 35,
+    "nombreCompleto": "Alexis Mac Allister",
+    "equipo": "Liverpool",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 36,
+    "nombreCompleto": "Giovani Lo Celso",
+    "equipo": "Real Betis",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 37,
+    "nombreCompleto": "Nicolás Domínguez",
+    "equipo": "Nottingham Forest",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 38,
+    "nombreCompleto": "Emiliano Buendía",
+    "equipo": "Aston Villa",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 39,
+    "nombreCompleto": "Valentín Barco",
+    "equipo": "Racing de Estrasburgo",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 40,
+    "nombreCompleto": "Nicolás Paz",
+    "equipo": "Como",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 41,
+    "nombreCompleto": "Franco Mastantuono",
+    "equipo": "Real Madrid",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 42,
+    "nombreCompleto": "Thiago Almada",
+    "equipo": "Atlético de Madrid",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 43,
+    "nombreCompleto": "Tomás Aranda",
+    "equipo": "Boca Juniors",
+    "posicion": "Mediocampista",
+    "codigoPosicion": "MED"
+  },
+  {
+    "numero": 44,
+    "nombreCompleto": "Lionel Messi",
+    "equipo": "Inter Miami",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  },
+  {
+    "numero": 45,
+    "nombreCompleto": "Nicolás González",
+    "equipo": "Atlético de Madrid",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  },
+  {
+    "numero": 46,
+    "nombreCompleto": "Alejandro Garnacho",
+    "equipo": "Chelsea",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  },
+  {
+    "numero": 47,
+    "nombreCompleto": "Giuliano Simeone",
+    "equipo": "Atlético de Madrid",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  },
+  {
+    "numero": 48,
+    "nombreCompleto": "Matías Soulé",
+    "equipo": "Roma",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  },
+  {
+    "numero": 49,
+    "nombreCompleto": "Claudio Echeverri",
+    "equipo": "Girona",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  },
+  {
+    "numero": 50,
+    "nombreCompleto": "Gianluca Prestianni",
+    "equipo": "Benfica",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  },
+  {
+    "numero": 51,
+    "nombreCompleto": "Santiago Castro",
+    "equipo": "Bologna",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  },
+  {
+    "numero": 52,
+    "nombreCompleto": "Lautaro Martínez",
+    "equipo": "Inter",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  },
+  {
+    "numero": 53,
+    "nombreCompleto": "José Manuel López",
+    "equipo": "Palmeiras",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  },
+  {
+    "numero": 54,
+    "nombreCompleto": "Julián Álvarez",
+    "equipo": "Atlético de Madrid",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  },
+  {
+    "numero": 55,
+    "nombreCompleto": "Mateo Pellegrino",
+    "equipo": "Parma",
+    "posicion": "Delantero",
+    "codigoPosicion": "DEL"
+  }
+]
